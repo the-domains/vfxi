@@ -1,6 +1,7 @@
 layout_spectrum: 0.6965628
+typography_spectrum: 0.4548872
 color:
-  saturation: 0.2002782
+  saturation: 0.2583244
   lightness: 0.779507
   brandStrength: 0.5199497
   brandColors:
@@ -10,5 +11,4 @@ color:
     - '#51600F'
     - '#84AD29'
   rhythmicContrast: 0.9319586
-typography_spectrum: 0.4548872
 name: VFXi
